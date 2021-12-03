@@ -22,7 +22,7 @@
 
 ### Reach me out
 [![Blog](https://img.shields.io/website?label=lucasbazan.com&style=for-the-badge&url=https://lucasbazan.com)](https://lucasbazan.com) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/BazanYT) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luc.bazan) <a href="https://www.linkedin.com/in/lucasbazan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="right" alt="Bazan-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/VggGYf5/2021-12-03-16-18-10.png" alt="2021-12-03-16-18-10">
 </div>
 
 ### Sponsor our projects ❤️
