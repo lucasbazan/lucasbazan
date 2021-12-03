@@ -1,7 +1,5 @@
 # Hey, whassup? 👽
-🙋‍♂️ My name is Lucas Bazan
-🇧🇷 I'm from Brazil
-💻 I'm a Computer Scientist and I work with DevSecOps Culture
+🙋‍♂️ My name is Lucas Bazan, I'm from Brazil, I'm a Computer Scientist and I work with DevSecOps Culture
 
 # Skills
  - 👨🏻‍💻 Programming Languages:  Python, Groovy and Shell Script (Bash)
