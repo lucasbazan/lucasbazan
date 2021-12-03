@@ -23,3 +23,5 @@
 
 ### Sponsor our projects ❤️
 <a href="https://www.paypal.com/donate/?hosted_button_id=HSLV564ML9UNL" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a> <a href="https://ko-fi.com/lucasbazan" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> <a href="https://www.buymeacoffee.com/lucasbazan" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
