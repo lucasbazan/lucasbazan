@@ -1,7 +1,7 @@
 # Hey, whassup? 👽
 🙋‍♂️ My name is Lucas Bazan, I'm from Brazil, I'm a Computer Scientist and I work with DevSecOps Culture
 
-![image](https://github-readme-stats.vercel.app/api?username=lucasbazan) ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbazan) ![image](https://github-readme-streak-stats.herokuapp.com/?user=lucasbazan)
+![image](https://github-readme-stats.vercel.app/api?username=lucasbazan) ![image](https://github-readme-streak-stats.herokuapp.com/?user=lucasbazan) ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbazan)
 
 # Skills
  - 👨🏻‍💻 Programming Languages:  Python, Groovy and Shell Script (Bash)
