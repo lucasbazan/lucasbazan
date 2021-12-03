@@ -1,7 +1,11 @@
 # Hey, whassup? 👽
 🙋‍♂️ My name is Lucas Bazan, I'm from Brazil, I'm a Computer Scientist and I work with DevSecOps Culture
 
-![image](https://github-readme-stats.vercel.app/api?username=lucasbazan) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbazan&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/lucasbazan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbazan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbazan&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 <!---
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=lucasbazan)
