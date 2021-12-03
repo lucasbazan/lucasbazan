@@ -9,6 +9,7 @@
 
 # Skills
 <img align="right" alt="Bazan-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/VggGYf5/2021-12-03-16-18-10.png" alt="2021-12-03-16-18-10">
+
  - 👨🏻‍💻 Programming Languages:  Python, Groovy and Shell Script (Bash)
  - 🧰 Frameworks: Flask and Node.js
  - ♾️ DevOps (CI/CD): Jenkins, Maven, Docker, Azure DevOps and Jira
