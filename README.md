@@ -12,7 +12,7 @@
 
  - 👨🏻‍💻 Programming Languages:  Python, Groovy and Shell Script (Bash)
  - 🧰 Frameworks: Flask and Node.js
- - ♾️ DevOps (CI/CD): Jenkins, Maven, Docker, Azure DevOps and Jira
+ - ♾️ DevSecOps (CI/CD): Jenkins, Maven, Docker, Azure DevOps and Jira
  - 🏠 Platforms: Linux and Microsoft Azure
 
 <!---
